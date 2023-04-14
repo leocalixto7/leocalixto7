@@ -3,9 +3,14 @@
 
 
 ### Olá! Sou o Leonardo Calixto 😊
+Olá, me chamo Leonardo Calixto, tenho atualmente 24 Anos. Sou formado desde 2022 em
+Análise e Desenvolvimento de Sistemas, sou Pós-Graduando em Gestão da Qualidade em
+Tecnologia da Informação, no qual terminei em 2023. Estou sempre em busca de conhecer
+novas tecnologias. Gosto de me relacionar com pessoas e fazer novas amizades a fim de buscar
+sempre mais experiências, nas quais se tornam úteis para o dia a dia do ambiente de trabalho.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-calixto-3a25a1256/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardocalixxto/)
+
 
 ## Tecnologias que uso
 <div style="display: inline_block"><br/>
