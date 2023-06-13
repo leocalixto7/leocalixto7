@@ -4,7 +4,7 @@
 
 ### Olá! Sou o Leonardo Calixto 😊
 Olá, me chamo Leonardo Calixto, tenho atualmente 24 Anos. Sou formado desde 2022 em
-Análise e Desenvolvimento de Sistemas, sou Pós-Graduando em Gestão da Qualidade em
+Análise e Desenvolvimento de Sistemas, sou Pós-Graduado em Gestão da Qualidade em
 Tecnologia da Informação, no qual terminei em 2023. Estou sempre em busca de conhecer
 novas tecnologias. Gosto de me relacionar com pessoas e fazer novas amizades a fim de buscar
 sempre mais experiências, nas quais se tornam úteis para o dia a dia do ambiente de trabalho.
